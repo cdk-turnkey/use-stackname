@@ -1,0 +1,14 @@
+{
+  "name": "@cdk-turnkey/use-stackname",
+  "version": "1.0.0",
+  "description": "Use the API of stackname, especially the lib (not CLI) files",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Douglas Naphas <douglasnaphas@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@cdk-turnkey/stackname": "^1.0.1"
+  }
+}
